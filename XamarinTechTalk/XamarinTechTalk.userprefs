@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="iOS/XamarinTechTalk.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadAir.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTechTalk/ViewModel/MathPageViewModel.cs">
+    <Files>
+      <File FileName="XamarinTechTalk/Util/Math.cs" Line="15" Column="9" />
+      <File FileName="XamarinTechTalk/App.cs" Line="21" Column="4" />
+      <File FileName="XamarinTechTalk/MainPage.cs" Line="20" Column="6" />
+      <File FileName="XamarinTechTalk/MathPage.xaml" Line="108" Column="30" />
+      <File FileName="XamarinTechTalk/MathPage.xaml.cs" Line="14" Column="31" />
+      <File FileName="XamarinTechTalk/ViewModel/MathPageViewModel.cs" Line="102" Column="21" />
+      <File FileName="XamarinTechTalk/HomePage.xaml" Line="6" Column="22" />
+      <File FileName="XamarinTechTalk/HomePage.xaml.cs" Line="19" Column="6" />
+      <File FileName="XamarinTechTalk/PageWithoutNavBar.cs" Line="17" Column="20" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="26" />
+      <File FileName="Droid/MainActivity.cs" Line="28" Column="23" />
+      <File FileName="XamarinTechTalk/Util/NavigationHelper.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../ArcTouch/git/seiren/seiren/Apps/Seiren.Client/Seiren.Client.Android/Services/SeirenIntentService.cs" line="57" offsetX="551" offsetY="840" expression="extras" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

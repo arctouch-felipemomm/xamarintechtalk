@@ -1,0 +1,15 @@
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.HomePage.xaml
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/HomePage.xaml.g.cs
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/bin/Debug/Xamarin.Forms.Core.dll
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/bin/Debug/XamarinTechTalk.dll.mdb
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/bin/Debug/XamarinTechTalk.dll
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.dll
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.dll.mdb
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.SideMenuPage.xaml
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/SideMenuPage.xaml.g.cs
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.PageWithNavBar.xaml
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/PageWithNavBar.xaml.g.cs
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/XamarinTechTalk.MathPage.xaml
+/Users/felipemomm/Projects/XamarinTechTalk/XamarinTechTalk/obj/Debug/MathPage.xaml.g.cs

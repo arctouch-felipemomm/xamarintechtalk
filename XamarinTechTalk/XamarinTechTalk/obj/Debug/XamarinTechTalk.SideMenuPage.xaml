@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinTechTalk.SideMenuPage">
+	<ContentPage.Content>
+
+		<StackLayout
+			Padding="40, 20, 40, 20"
+			Spacing="10"
+			VerticalOptions="StartAndExpand">
+
+			<Button
+				Text="Home"
+				FontSize="20"
+				BackgroundColor="Black"
+				TextColor="White"
+				Clicked="HomeClicked">
+			</Button>
+
+			<Button
+				Text="MathPage"
+				FontSize="20"
+				BackgroundColor="Black"
+				TextColor="White"
+				Clicked="MathPageClicked">
+			</Button>
+
+			<Button
+				Text="PageWithoutNavBar"
+				FontSize="20"
+				BackgroundColor="Black"
+				TextColor="White"
+				Clicked="PageWithoutNavBarClicked">
+			</Button>
+
+		</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>
