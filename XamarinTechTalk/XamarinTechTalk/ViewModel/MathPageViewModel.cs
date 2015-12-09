@@ -101,14 +101,9 @@ namespace XamarinTechTalk
 		{
 			IsLoading = true;
 
-			List<Task> tasks = new List<Task>();
-
-			long mathResult = Math.Sum(Number1, Number2);
-			tasks.Add(Math.SumAsync(Number1, Number2));
+			long mathResult = await Math.SumAsync(Number1, Number2);
 
 			Result = String.Format("Result: {0}", mathResult);
-
-			Task.WaitAll(tasks);
 
 			IsLoading = false;
 		}
