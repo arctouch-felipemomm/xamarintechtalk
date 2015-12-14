@@ -26,6 +26,11 @@ namespace XamarinTechTalk
 		{
 			((XamarinTechTalk.MainPage)((App)Application.Current).MainPage).PushPageAsync(new PageWithoutNavBar());
 		}
+
+		private void EntryListPageClicked(object sender, EventArgs e)
+		{
+			((XamarinTechTalk.MainPage)((App)Application.Current).MainPage).PushPageAsync(new EntryListPage());
+		}
 	}
 }
 

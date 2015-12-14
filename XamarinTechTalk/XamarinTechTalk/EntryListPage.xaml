@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinTechTalk.EntryListPage"
+	xmlns:ext="clr-namespace:XamarinTechTalk;assembly=XamarinTechTalk"
+	x:Name="listPage">
+	<ContentPage.Content>
+
+				<ListView 
+					ItemsSource="{Binding Entries}" >
+
+		            <ListView.ItemTemplate>
+		                <DataTemplate>
+		                	<ViewCell>
+					            <ext:CustomEntry
+					            	HasFocus="{Binding Focused}" 
+					            	Command="{Binding Path=BindingContext.FocusNextItemCommand, Source={ext:ElementSource listPage}}"
+					            	CommandParameter="{Binding .}" />
+			            	</ViewCell>
+		                </DataTemplate>
+		            </ListView.ItemTemplate>
+
+				</ListView>
+
+	</ContentPage.Content>
+</ContentPage>

@@ -31,6 +31,14 @@
 				Clicked="PageWithoutNavBarClicked">
 			</Button>
 
+			<Button
+				Text="EntryListPage"
+				FontSize="20"
+				BackgroundColor="Black"
+				TextColor="White"
+				Clicked="EntryListPageClicked">
+			</Button>
+
 		</StackLayout>
 
 	</ContentPage.Content>
